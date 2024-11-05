@@ -133,7 +133,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("MS UI Gothic", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
-            this.label1.Location = new System.Drawing.Point(86, 101);
+            this.label1.Location = new System.Drawing.Point(71, 101);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(191, 33);
             this.label1.TabIndex = 10;
