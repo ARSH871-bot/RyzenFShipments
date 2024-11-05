@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//This is the register form.
+//This is my Register form.
 namespace RyzenFs
 {
     public partial class frmRegister : Form
