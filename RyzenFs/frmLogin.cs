@@ -50,7 +50,7 @@ namespace RyzenFs
 
             }*/
         }
-
+        
         private void button2_Click(object sender, EventArgs e)
         {
             txtusername.Text = "";
@@ -84,3 +84,4 @@ namespace RyzenFs
         }
     }
 }
+private
